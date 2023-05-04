@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Theani33/conv"
+	"github.com/Theani33/funtemps/conv"
 )
 
 func CelsiusToFahrenheitString(celsius string) (string, error) {
